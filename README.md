@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hey there 👋
+
+I'm **Mykhailo**, a cybersecurity student from Ukraine.
+
+I'm currently building my foundation in **networking**, **Linux**, **Windows administration**, and **cybersecurity**.
+
+Right now, I'm working on a hands-on **CCNA Networking & Security Portfolio**, where I document Cisco Packet Tracer labs, configurations, verification steps, and troubleshooting notes.
+
+My main focus areas are:
+
+* Networking
+* Defensive security
+* System administration
+
+I'm using GitHub to document my learning process, build practical projects, and track my progress toward becoming a security-focused IT specialist.
+
+## Current Focus
+
+* CCNA labs and network documentation
+* Cisco routing and switching
+* Linux and Windows fundamentals
+* TryHackMe and Hack The Box practice
+* Defensive security basics
+
+## Contact
+
+* LinkedIn: [Mykhailo Zizevskyi](https://www.linkedin.com/in/mykhailo-zizevskyi-a011b7412)
+
 
 <!--
 **TheFactRio/TheFactRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
