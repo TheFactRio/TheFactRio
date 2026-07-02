@@ -14,17 +14,19 @@ My main focus areas are:
 
 I'm using GitHub to document my learning process, build practical projects, and track my progress toward becoming a security-focused IT specialist.
 
-## Current Focus
+##🎯Current Focus
 
 * CCNA labs and network documentation
 * Cisco routing and switching
-* Linux and Windows fundamentals
+* Linux and Windows administration basics
 * TryHackMe and Hack The Box practice
 * Defensive security basics
+* Building practical projects
 
-## Contact
+##📫Contact
 
 * LinkedIn: [Mykhailo Zizevskyi](https://www.linkedin.com/in/mykhailo-zizevskyi-a011b7412)
+* Facebook: [Mykhailo Zizevskyi](https://www.facebook.com/zizevskyi.mykhailo/)
 
 
 <!--
