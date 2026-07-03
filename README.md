@@ -2,9 +2,9 @@
 
 I'm **Mykhailo**, a cybersecurity student from Ukraine.
 
-I'm currently building my foundation in **networking**, **Linux**, **Windows administration**, and **cybersecurity**.
+I'm currently building my foundation in **networking**, **Linux and Windows administration**, and **cybersecurity**.
 
-Right now, I'm working on a hands-on **CCNA Networking & Security Portfolio**, where I document Cisco Packet Tracer labs, configurations, verification steps, and troubleshooting notes.
+Right now, I'm working on a hands-on **Network Engineering & Security Portfolio**, where I document Cisco Packet Tracer labs, configurations, verification steps, and troubleshooting notes.
 
 My main focus areas are:
 
@@ -16,8 +16,8 @@ I'm using GitHub to document my learning process, build practical projects, and 
 
 🎯**Current Focus**
 
-* CCNA labs and network documentation
-* Cisco routing and switching
+* Network security foundations
+* Routing, switching, and protocol analysis
 * Linux and Windows administration basics
 * TryHackMe and Hack The Box practice
 * Defensive security basics
