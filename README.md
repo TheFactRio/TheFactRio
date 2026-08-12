@@ -6,22 +6,13 @@ I'm currently building my foundation in **networking**, **Linux and Windows admi
 
 Right now, I'm working on a hands-on **Network Engineering & Security Portfolio**, where I document Cisco Packet Tracer labs, configurations, verification steps, and troubleshooting notes.
 
-My main focus areas are:
+🎯**My main Focus**
 
 * Networking
 * Defensive security
 * System administration
 
 I'm using GitHub to document my learning process, build practical projects, and track my progress toward becoming a security-focused IT specialist.
-
-🎯**Current Focus**
-
-* Network security foundations
-* Routing, switching, and protocol analysis
-* Linux and Windows administration basics
-* TryHackMe and Hack The Box practice
-* Defensive security basics
-* Building practical projects
 
 📫**Contact**
 
