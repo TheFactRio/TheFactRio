@@ -17,7 +17,6 @@ I'm using GitHub to document my learning process, build practical projects, and 
 📫**Contact**
 
 * LinkedIn: [Mykhailo Zizevskyi](https://www.linkedin.com/in/mykhailo-zizevskyi-a011b7412)
-* Facebook: [Mykhailo Zizevskyi](https://www.facebook.com/zizevskyi.mykhailo/)
 
 
 <!--
